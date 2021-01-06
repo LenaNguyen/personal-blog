@@ -18,6 +18,9 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            fontFamily: `Source Sans Pro`,
+            fontWeight: 900,
+            textAlign: "center",
           }}
         >
           <Link
@@ -36,8 +39,9 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: `Montserrat, sans-serif`,
+            fontFamily: `Source Sans Pro`,
             marginTop: 0,
+            fontWeight: 700,
           }}
         >
           <Link
