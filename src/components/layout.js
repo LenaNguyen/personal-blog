@@ -3,12 +3,13 @@ import { Link } from "gatsby"
 import styled from "styled-components"
 
 import { rhythm, scale } from "../utils/typography"
+import Navbar from "../components/navbar"
 
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
-    const blogPath = `${__PATH_PREFIX__}/blog/`
+    const blogPath = `${__PATH_PREFIX__}/blog`
     let header
 
     if (location.pathname === rootPath || location.pathname === blogPath) {
@@ -50,7 +51,7 @@ class Layout extends React.Component {
               textDecoration: `none`,
               color: `inherit`,
             }}
-            to={`/blog/`}
+            to={rootPath}
           >
             {title}
           </Link>
@@ -68,6 +69,7 @@ class Layout extends React.Component {
           }}
         >
           <header>{header}</header>
+          <Navbar />
           <main>{children}</main>
         </div>
         <Footer>
