@@ -73,9 +73,11 @@ class Layout extends React.Component {
           <main>{children}</main>
         </div>
         <Footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          © {new Date().getFullYear()}, Made with{" "}
+          <span role="img" aria-label="sparkle emoji">
+            ✨
+          </span>
+          by Lena
         </Footer>
       </Wrapper>
     )

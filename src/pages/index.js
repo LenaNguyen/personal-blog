@@ -2,7 +2,14 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import styled from "styled-components"
 
+const LandingImage = styled.img`
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+`
 class IndexPage extends React.Component {
   render() {
     const siteTitle = this.props.data.site.siteMetadata.title
@@ -12,19 +19,21 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
+        <LandingImage src="./03.png" alt="Abstract Face" />
         <h1>
-          Hey people{" "}
+          Hey there{" "}
           <span role="img" aria-label="wave emoji">
             👋
           </span>
         </h1>
-        <p>Welcome to your new Gatsby website. You are on your home page.</p>
+        <p>Thanks for checking out my website.</p>
         <p>
-          This starter comes out of the box with styled components and Gatsby's
-          default starter blog running on Netlify CMS.
+          I believe that life is about being bold, ambitious, and creative. This
+          is where I document my journey to see how I've grown. I write about
+          life, simple ways to have fun, and things I've built, in hopes that it
+          adds some value to the world.
         </p>
-        <p>Now go build something great!</p>
+        <p>Stay as long as you like!</p>
       </Layout>
     )
   }
