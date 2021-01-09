@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Lena's Personal Blog`,
+    title: `LENA'S JOURNAL`,
     author: `Lena Nguyen`,
     description: `A personal blog made by Lena.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `gatsbyjs`,
+      medium: `@lena_nguyen`,
     },
   },
   plugins: [

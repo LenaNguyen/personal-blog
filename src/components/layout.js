@@ -3,12 +3,13 @@ import { Link } from "gatsby"
 import styled from "styled-components"
 
 import { rhythm, scale } from "../utils/typography"
+import Navbar from "../components/navbar"
 
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
-    const blogPath = `${__PATH_PREFIX__}/blog/`
+    const blogPath = `${__PATH_PREFIX__}/blog`
     let header
 
     if (location.pathname === rootPath || location.pathname === blogPath) {
@@ -18,6 +19,9 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            fontFamily: `Source Sans Pro`,
+            fontWeight: 900,
+            textAlign: "center",
           }}
         >
           <Link
@@ -26,7 +30,7 @@ class Layout extends React.Component {
               textDecoration: `none`,
               color: `inherit`,
             }}
-            to={location.pathname === blogPath ? `/blog/` : `/`}
+            to={`/`}
           >
             {title}
           </Link>
@@ -36,8 +40,9 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: `Montserrat, sans-serif`,
+            fontFamily: `Source Sans Pro`,
             marginTop: 0,
+            fontWeight: 700,
           }}
         >
           <Link
@@ -46,7 +51,7 @@ class Layout extends React.Component {
               textDecoration: `none`,
               color: `inherit`,
             }}
-            to={`/blog/`}
+            to={rootPath}
           >
             {title}
           </Link>
@@ -64,12 +69,15 @@ class Layout extends React.Component {
           }}
         >
           <header>{header}</header>
+          <Navbar />
           <main>{children}</main>
         </div>
         <Footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          © {new Date().getFullYear()}, Made with{" "}
+          <span role="img" aria-label="sparkle emoji">
+            ✨
+          </span>
+          by Lena
         </Footer>
       </Wrapper>
     )

@@ -41,6 +41,20 @@ const SearchBar = styled.div`
   }
 `
 
+const PostContainer = styled.div`
+  text-align: center;
+`
+
+const Underline = styled.div`
+  ::after {
+    content: ""; /* This is necessary for the pseudo element to work. */
+    display: block; /* This will put the pseudo element on its own line. */
+    margin: 0 auto; /* This will center the border. */
+    width: 150px; /* Change this to whatever width you want. */
+    margin-bottom: 1em; /* This creates some space between the element and the border. */
+    border-bottom: 2px solid black; /* This creates the border. Replace black with whatever color you want. */
+  }
+`
 const SearchedPosts = ({ results }) =>
   results.length > 0 ? (
     results.map(node => {
@@ -81,23 +95,30 @@ const AllPosts = ({ posts }) => (
     {posts.map(({ node }) => {
       const title = node.frontmatter.title || node.fields.slug
       return (
-        <div key={node.fields.slug}>
-          <h3
-            style={{
-              marginBottom: rhythm(1 / 4),
-            }}
-          >
-            <Link style={{ boxShadow: `none` }} to={`/blog${node.fields.slug}`}>
-              {title}
-            </Link>
-          </h3>
-          <small>{node.frontmatter.date}</small>
+        <PostContainer key={node.fields.slug}>
+          <Underline>
+            <h3
+              style={{
+                marginBottom: rhythm(1 / 4),
+              }}
+            >
+              <Link
+                style={{ boxShadow: `none`, color: "black" }}
+                to={`/blog${node.fields.slug}`}
+              >
+                {title}
+              </Link>
+            </h3>
+            <small style={{ fontFamily: "PT Serif" }}>
+              {node.frontmatter.date}
+            </small>
+          </Underline>
           <p
             dangerouslySetInnerHTML={{
               __html: node.frontmatter.description || node.excerpt,
             }}
           />
-        </div>
+        </PostContainer>
       )
     })}
   </div>
