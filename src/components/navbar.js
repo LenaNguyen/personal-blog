@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import NavbarLinks from "./NavbarLinks"
+import NavbarLinks from "./navbarLinks"
 import styled from "styled-components"
 
 const Navigation = styled.nav`
