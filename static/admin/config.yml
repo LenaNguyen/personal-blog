@@ -15,4 +15,67 @@ collections:
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
       - { name: description, label: Description }
+      - {
+          name: cover-photo,
+          label: Cover Photo,
+          widget: image,
+          required: false,
+        }
       - { name: body, label: Body, widget: markdown }
+  - name: goals
+    label: Goals
+    folder: content/goals
+    create: true
+    fields:
+      - {
+          name: goals,
+          label: Goals,
+          widget: list,
+          types:
+            [
+              {
+                label: Quantifiable,
+                name: quantifiable,
+                widget: object,
+                summary: "{{fields.title}}",
+                fields:
+                  [
+                    { label: Title, name: title, widget: string },
+                    { label: Total, name: total, widget: number },
+                    {
+                      label: Number Complete,
+                      name: num_complete,
+                      widget: number,
+                      min: 0,
+                      step: 1,
+                    },
+                  ],
+              },
+              {
+                label: Binary,
+                name: binary,
+                widget: object,
+                summary: "{{fields.title}}",
+                fields:
+                  [
+                    { label: Title, name: title, widget: string },
+                    { label: Completed, name: completed, widget: boolean },
+                  ],
+              },
+              {
+                label: Qualitative,
+                name: qualitative,
+                summary: "{{fields.title}}",
+                fields:
+                  [
+                    { label: Title, name: title, widget: string },
+                    {
+                      label: Status,
+                      name: status,
+                      widget: select,
+                      options: [1, 2, 3, 4, 5],
+                    },
+                  ],
+              },
+            ],
+        }

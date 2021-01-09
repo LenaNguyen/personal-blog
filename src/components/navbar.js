@@ -9,7 +9,6 @@ const Navigation = styled.nav`
   position: relative;
   justify-content: center;
   text-transform: uppercase;
-  border-bottom: 2px solid #33333320;
   margin: 0 auto 1em auto;
   padding: 0 5vw;
   z-index: 2;

@@ -8,6 +8,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "@fontsource/pt-serif": "^4.1.0",
     "@fontsource/source-sans-pro": "^4.1.0",
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",
@@ -41,7 +42,6 @@
     "react-typography": "^0.16.19",
     "react-use-flexsearch": "^0.1.1",
     "styled-components": "^4.2.0",
-    "typeface-merriweather": "0.0.72",
     "typography": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19"
   },
