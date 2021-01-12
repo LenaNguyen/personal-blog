@@ -16,7 +16,7 @@ function Bio() {
         const { author, social } = data.site.siteMetadata
         return (
           <p>
-            <span role="image" alt="writing hand emoji">
+            <span role="img" aria-label="writing hand emoji">
               ✍️{"	"}
             </span>
             Written by <strong>{author}</strong>.{` `}
