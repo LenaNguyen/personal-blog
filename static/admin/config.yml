@@ -16,38 +16,55 @@ collections:
       - { name: title, label: Title }
       - { name: description, label: Description }
       - {
-          name: cover-photo,
+          name: cover_photo,
           label: Cover Photo,
           widget: image,
           required: false,
         }
       - { name: body, label: Body, widget: markdown }
+  - name: goal_tags
+    label: Goal Tags
+    folder: content/goal_tags
+    create: true
+    fields:
+      - { name: name, label: Name }
   - name: goals
     label: Goals
     folder: content/goals
     create: true
     fields:
+      - { name: title, label: title, widget: string }
       - {
-          name: goals,
-          label: Goals,
+          name: list,
+          label: List,
           widget: list,
           types:
             [
               {
-                label: Quantifiable,
-                name: quantifiable,
+                label: Quantitative,
+                name: quantitative,
                 widget: object,
                 summary: "{{fields.title}}",
                 fields:
                   [
                     { label: Title, name: title, widget: string },
-                    { label: Total, name: total, widget: number },
+                    { label: Total, name: total, widget: number, default: 0 },
                     {
                       label: Number Complete,
                       name: num_complete,
                       widget: number,
                       min: 0,
                       step: 1,
+                      default: 0,
+                    },
+                    {
+                      label: Tags,
+                      name: tags,
+                      widget: relation,
+                      collection: goal_tags,
+                      searchFields: [name],
+                      valueField: name,
+                      multiple: true,
                     },
                   ],
               },
@@ -59,7 +76,21 @@ collections:
                 fields:
                   [
                     { label: Title, name: title, widget: string },
-                    { label: Completed, name: completed, widget: boolean },
+                    {
+                      label: Completed,
+                      name: completed,
+                      widget: boolean,
+                      required: false,
+                    },
+                    {
+                      label: Tags,
+                      name: tags,
+                      widget: relation,
+                      collection: goal_tags,
+                      searchFields: [name],
+                      valueField: name,
+                      multiple: true,
+                    },
                   ],
               },
               {
@@ -73,7 +104,16 @@ collections:
                       label: Status,
                       name: status,
                       widget: select,
-                      options: [1, 2, 3, 4, 5],
+                      options: ["1", "2", "3", "4", "5"],
+                    },
+                    {
+                      label: Tags,
+                      name: tags,
+                      widget: relation,
+                      collection: goal_tags,
+                      searchFields: [name],
+                      valueField: name,
+                      multiple: true,
                     },
                   ],
               },
