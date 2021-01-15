@@ -21,4 +21,4 @@ However, this blog is 100% my own. This is my corner of the internet where I wil
 
 To whoever is reading this on the other side of the screen, I hope that you too have something that is 100% your own. Something that no one expected of you.
 
-It feels great finally call something mine.
+It feels great to finally call something mine.
