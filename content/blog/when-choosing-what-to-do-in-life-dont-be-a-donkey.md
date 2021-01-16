@@ -7,7 +7,7 @@ cover-photo: ../assets/pexels-pixabay-208821.jpg
 ---
 <!--StartFragment-->
 
-I was listening to Derek Sivers's chapter in the [*Tools of Titans*](https://podcasts.apple.com/ca/podcast/tools-titans-tactics-routines-habits-world-class-performers/id1515607844) podcast when I heard him bring up something that resonated with me so well that I immediately stopped what I was doing to pay closer attention. Tim Ferris had asked him "What advice would you give to your 30-year-old self?" to which Sivers replied, "Don't be a donkey."
+I was listening to Derek Sivers's chapter in the *[Tools of Titans](https://podcasts.apple.com/ca/podcast/tools-titans-tactics-routines-habits-world-class-performers/id1515607844)* podcast when I heard him bring up something that resonated with me so well that I immediately stopped what I was doing to pay closer attention. Tim Ferris had asked him "What advice would you give to your 30-year-old self?" to which Sivers replied, "Don't be a donkey."
 
 Sivers is referring to the donkey in the fable *Buridan's Ass* about a donkey who stands in the middle of a pile of hay and a bucket of water. The donkey looks back and forth trying to deciding between the hay or the water. Hay. Water. Hay. Water. He's so indecisive that he eventually falls over and dies of both hunger and thirst.
 
@@ -21,7 +21,7 @@ The problem is not the world telling you to choose one thing, but the mindset th
 
 - - -
 
-# Making Decisions
+## Making Decisions
 
 So now that you are trying to act less like a donkey and more like a human, how do you go about making a decision on what to do first? Serial entrepreneur Gary Vaynerchuck makes tons of decisions every day running his companies. His [decision-making tactics](https://www.garyvaynerchuk.com/how-i-decide/) consist of listening to his intuition, setting good intentions, and then going for it.
 
