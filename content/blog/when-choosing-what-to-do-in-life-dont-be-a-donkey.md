@@ -19,8 +19,6 @@ I know what it's like to try and pursue many different directions at once, only 
 
 The problem is not the world telling you to choose one thing, but the mindset that if you don't do everything you want to do right now, then none of them will happen. Most people only think in the short term and forget how many decades a human lifespan actually contains. If you're reading this on the internet, then chances are that you still have a few decades left in you. You could gain a whole decade's worth of experience in one area and still have time to switch to work on something else for the next decade. It doesn't;t even have to be for that long before you switch. You just need the patience and commitment required to only pursue one or two things at a time.
 
-- - -
-
 ## Making Decisions
 
 So now that you are trying to act less like a donkey and more like a human, how do you go about making a decision on what to do first? Serial entrepreneur Gary Vaynerchuck makes tons of decisions every day running his companies. His [decision-making tactics](https://www.garyvaynerchuk.com/how-i-decide/) consist of listening to his intuition, setting good intentions, and then going for it.
@@ -32,8 +30,6 @@ The better your intuition is, the more your decisions will align with who you ar
 Execution is, of course, the hardest part because we all fear failure. But it's not about whether we fail or succeed. We should do things out of curiosity to see what the outcome will be and then use that information to fuel our next move. When you view a decision as having a binary outcome of success or failure, the odds appear to be stacked heavily for failure. When you change your perspective to choose a pursuit with the goal of learning what will happen if you go for it, then that outcome will certainly be achieved.
 
 The most important part is that you choose one thing and execute on it before you can talk yourself out of it.
-
-- - -
 
 If you look in the mirror and see a donkey, remember this: It is possible to accomplish everything you want, but you don't need to do it all this week. With a realistic timeline, the discipline to actually start instead of being paralyzed with indecision, and a lot of patience, it can all be done. Now get going before you die of hunger and thirst.
 
