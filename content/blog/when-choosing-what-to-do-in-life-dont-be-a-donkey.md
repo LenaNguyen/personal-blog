@@ -7,7 +7,7 @@ cover-photo: ../assets/pexels-pixabay-208821.jpg
 ---
 <!--StartFragment-->
 
-I was listening to Derek Sivers's chapter in the [*Tools of Titans* podcast](https://podcasts.apple.com/ca/podcast/tools-titans-tactics-routines-habits-world-class-performers/id1515607844) when I heard him bring up something that resonated with me so well that I immediately stopped what I was doing to pay closer attention. Tim Ferris had asked him "What advice would you give to your 30-year-old self?" to which Sivers replied, "Don't be a donkey."
+I was listening to Derek Sivers's chapter in the [*Tools of Titans*](https://podcasts.apple.com/ca/podcast/tools-titans-tactics-routines-habits-world-class-performers/id1515607844) podcast when I heard him bring up something that resonated with me so well that I immediately stopped what I was doing to pay closer attention. Tim Ferris had asked him "What advice would you give to your 30-year-old self?" to which Sivers replied, "Don't be a donkey."
 
 Sivers is referring to the donkey in the fable *Buridan's Ass* about a donkey who stands in the middle of a pile of hay and a bucket of water. The donkey looks back and forth trying to deciding between the hay or the water. Hay. Water. Hay. Water. He's so indecisive that he eventually falls over and dies of both hunger and thirst.
 
