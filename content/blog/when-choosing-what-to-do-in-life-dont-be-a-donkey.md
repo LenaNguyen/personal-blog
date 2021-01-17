@@ -1,7 +1,7 @@
 ---
-path: when-choosing-what-to-do-in-life-don't-be-a-donkey
+path: when-choosing-what-to-do-don't-be-a-donkey
 date: 2021-01-16T15:48:55.910Z
-title: When Choosing What to Do in Life, Don't Be a Donkey
+title: When Choosing What to Do, Don't Be a Donkey
 description: A story about being an ass.
 cover-photo: ../assets/pexels-pixabay-208821.jpg
 ---
@@ -31,6 +31,6 @@ Execution is, of course, the hardest part because we all fear failure. But it's 
 
 The most important part is that you choose one thing and execute on it before you can talk yourself out of it.
 
-If you look in the mirror and see a donkey, remember this: It is possible to accomplish everything you want, but you don't need to do it all this week. With a realistic timeline, the discipline to actually start instead of being paralyzed with indecision, and a lot of patience, it can all be done. Now get going before you die of hunger and thirst.
+If you look in the mirror and see a donkey, remember this: It is possible to accomplish everything you want, but you don't need to do it all this week. With a realistic timeline, the discipline to actually start instead of being paralyzed with indecision, and a lot of patience, it can all be done. 
 
 <!--EndFragment-->
