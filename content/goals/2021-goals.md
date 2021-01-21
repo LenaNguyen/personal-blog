@@ -9,7 +9,7 @@ list:
     title: 🔥 Start a bonfire
     tags:
       - Activities
-    completed: true
+    completed: false
   - type: quantitative
     total: 10
     num_complete: 0
