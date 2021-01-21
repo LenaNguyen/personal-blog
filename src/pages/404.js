@@ -16,7 +16,7 @@ class NotFoundPage extends React.Component {
         <p>Whoops, you may be lost. This page does not exist!</p>
         <em>
           You and I will be lost and found a thousand times along this cobbled
-          road of us. - Atticus
+          road of us. -Atticus
         </em>
       </Layout>
     )

@@ -81,6 +81,7 @@ collections:
                       name: completed,
                       widget: boolean,
                       required: false,
+                      default: false,
                     },
                     {
                       label: Tags,
