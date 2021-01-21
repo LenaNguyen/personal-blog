@@ -81,4 +81,9 @@ list:
     title: 🥘 Make 5 new recipes
     tags:
       - Activities
+  - type: binary
+    completed: false
+    title: Test
+    tags:
+      - Activities
 ---
