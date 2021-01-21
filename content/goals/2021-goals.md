@@ -9,6 +9,7 @@ list:
     title: 🔥 Start a bonfire
     tags:
       - Activities
+    completed: true
   - type: quantitative
     total: 10
     num_complete: 0
@@ -79,11 +80,6 @@ list:
     total: 5
     num_complete: 0
     title: 🥘 Make 5 new recipes
-    tags:
-      - Activities
-  - type: binary
-    completed: false
-    title: Test
     tags:
       - Activities
 ---
