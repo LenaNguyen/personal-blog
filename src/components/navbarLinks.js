@@ -27,7 +27,7 @@ const NavbarLinks = () => {
     <>
       <NavItem to="/">HOME</NavItem>
       <NavItem to="/blog">BLOG</NavItem>
-      <NavItem to="/">GOALS</NavItem>
+      <NavItem to="/goals">GOALS</NavItem>
       <NavItem to="/404">ACTVIITIES</NavItem>
     </>
   )
