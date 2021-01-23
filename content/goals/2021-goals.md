@@ -12,13 +12,13 @@ list:
     completed: false
   - type: quantitative
     total: 10
-    num_complete: 0
+    num_complete: 2
     title: 📚 Read 12 books
     tags:
       - Activities
   - type: quantitative
     total: 5
-    num_complete: 0
+    num_complete: 2
     title: ✏️ Write 5 blog posts
     tags:
       - Activities
@@ -32,7 +32,7 @@ list:
       - Activities
   - type: quantitative
     total: 5
-    num_complete: 0
+    num_complete: 5
     title: 💪 Do 5 good push-ups
     tags:
       - Activities
@@ -43,7 +43,7 @@ list:
       - Habits
   - type: qualitative
     title: 📔 Use my notebook consistently
-    status: "2"
+    status: "1"
     tags:
       - Habits
   - type: qualitative
@@ -53,12 +53,12 @@ list:
       - Habits
   - type: qualitative
     title: 📷 Document more of my life through video
-    status: "3"
+    status: "2"
     tags:
       - Habits
   - type: quantitative
     total: 200
-    num_complete: 0
+    num_complete: 30
     title: 💲 Make $200 from side hustles
     tags:
       - Finance
