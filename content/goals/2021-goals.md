@@ -32,7 +32,7 @@ list:
       - Activities
   - type: quantitative
     total: 5
-    num_complete: 5
+    num_complete: 7
     title: 💪 Do 5 good push-ups
     tags:
       - Activities
@@ -58,7 +58,7 @@ list:
       - Habits
   - type: quantitative
     total: 200
-    num_complete: 30
+    num_complete: 44
     title: 💲 Make $200 from side hustles
     tags:
       - Finance
