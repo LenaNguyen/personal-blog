@@ -4,7 +4,7 @@ const getEmoji = (status) => {
 	console.log(status)
 	switch(status) {
 		case "1":
-			return (<span role="img" aria-label="frown">☹️</span>)
+			return (<span role="img" aria-label="frown">😞</span>)
 		case "2":
 			return (<span role="img" aria-label="slight frown">😐</span>)
 		case "3":

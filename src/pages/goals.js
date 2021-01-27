@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import { Box } from "@material-ui/core"
 
 import Layout from "../components/layout"
 import GoalsTable from "../components/goals/goalsTable"
@@ -14,6 +15,9 @@ class Blog extends React.Component {
     const headers = ["Goal", "Category", "Status"]
     return (
       <Layout location={this.props.location} title={title}>
+        <Box component="h1" textAlign="center" mt={0} mb={4}>
+          {listTitle}
+        </Box>
         <GoalsTable headers={headers} rows={goalsList} />
       </Layout>
     )

@@ -21,7 +21,7 @@ const getStatusByType = (goal) => {
 		case goalTypes.QUALITATIVE:
 			return <QualitativeGoalStatus status={goal.status} />
 		case goalTypes.QUANTITATIVE:
-			return <QuantitativeGoalStatus total={goal.total} num_completed={goal.num_completed} />
+			return <QuantitativeGoalStatus total={goal.total} num_complete={goal.num_complete} />
 		default:
 			return <div>Missing</div>
 	}
