@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 import styled from "styled-components"
 import { useFlexSearch } from "react-use-flexsearch"
 import * as queryString from "query-string"
+import Img from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
 
@@ -43,6 +44,7 @@ const SearchBar = styled.div`
 
 const PostContainer = styled.div`
   text-align: center;
+  margin-bottom: 4rem;
 `
 
 const Underline = styled.div`
@@ -94,6 +96,7 @@ const AllPosts = ({ posts }) => (
   <div style={{ margin: "20px 0 40px" }}>
     {posts.map(({ node }) => {
       const title = node.frontmatter.title || node.fields.slug
+      const coverPhoto = node.frontmatter.cover_photo
       return (
         <PostContainer key={node.fields.slug}>
           <Underline>
@@ -118,6 +121,9 @@ const AllPosts = ({ posts }) => (
               __html: node.frontmatter.description || node.excerpt,
             }}
           />
+          {coverPhoto && (
+            <Img fluid={coverPhoto.childImageSharp.fluid} alt="cover photo" />
+          )}
         </PostContainer>
       )
     })}

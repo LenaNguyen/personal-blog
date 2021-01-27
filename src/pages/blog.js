@@ -39,7 +39,10 @@ export const pageQuery = graphql`
       index
       store
     }
-    allMdx(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMdx(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { fileAbsolutePath: { regex: "/content/blog/" } }
+    ) {
       edges {
         node {
           excerpt
@@ -50,6 +53,17 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            cover_photo {
+              childImageSharp {
+                fluid(maxWidth: 700) {
+                  base64
+                  aspectRatio
+                  src
+                  srcSet
+                  sizes
+                }
+              }
+            }
           }
         }
       }
