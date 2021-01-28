@@ -1,25 +1,28 @@
 import React from "react"
 import { graphql } from "gatsby"
+import Img from "gatsby-image"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import styled from "styled-components"
+import { Box } from "@material-ui/core"
 
-const LandingImage = styled.img`
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-`
 class IndexPage extends React.Component {
   render() {
     const siteTitle = this.props.data.site.siteMetadata.title
+    const landingImage = this.props.data.file.childImageSharp.fluid
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <LandingImage src="./03.png" alt="Abstract Face" />
+        <Box
+          component={Img}
+          maxWidth="80%"
+          display="block"
+          mx="auto"
+          fluid={landingImage}
+          alt="Abstract Face"
+        />
         <h1>
           Hey there{" "}
           <span role="img" aria-label="wave emoji">
@@ -46,6 +49,13 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+    file(relativePath: { eq: "03.png" }) {
+      childImageSharp {
+        fluid {
+          ...GatsbyImageSharpFluid
+        }
       }
     }
   }
