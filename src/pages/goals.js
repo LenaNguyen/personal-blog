@@ -4,6 +4,7 @@ import { Box } from "@material-ui/core"
 
 import Layout from "../components/layout"
 import GoalsTable from "../components/goals/goalsTable"
+import SEO from "../components/seo"
 
 class Blog extends React.Component {
   render() {
@@ -15,6 +16,7 @@ class Blog extends React.Component {
     const headers = ["Goal", "Category", "Status"]
     return (
       <Layout location={this.props.location} title={title}>
+        <SEO title="Goals" />
         <Box component="h1" textAlign="center" mt={0} mb={4}>
           {listTitle}
         </Box>
