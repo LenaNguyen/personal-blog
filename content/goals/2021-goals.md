@@ -43,12 +43,12 @@ list:
       - Habits
   - type: qualitative
     title: 📔 Use my notebook consistently
-    status: "1"
+    status: "3"
     tags:
       - Habits
   - type: qualitative
     title: 🏋️‍♀️ Exercise for at least 30 min 3 times a week
-    status: "4"
+    status: "5"
     tags:
       - Habits
   - type: qualitative
@@ -64,7 +64,7 @@ list:
       - Finance
   - type: quantitative
     total: 5000
-    num_complete: 0
+    num_complete: 1993
     title: 💸 Invest $5k
     tags:
       - Finance
