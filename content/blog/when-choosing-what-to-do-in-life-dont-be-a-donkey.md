@@ -4,6 +4,7 @@ date: 2021-01-16T15:48:55.910Z
 title: When Choosing What to Do, Don't Be a Donkey
 description: A story about being an ass.
 cover-photo: ../assets/pexels-pixabay-208821.jpg
+cover_photo: ../assets/pexels-pixabay-208821.jpg
 ---
 <!--StartFragment-->
 
