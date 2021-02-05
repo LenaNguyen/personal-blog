@@ -4,6 +4,7 @@ date: 2021-01-15T01:27:05.974Z
 title: My First Blog Post
 description: The beginning of endless potential.
 cover-photo: ../assets/pexels-fstopper-1095114.jpg
+cover_photo: ../assets/pexels-fstopper-1095114.jpg
 ---
 This blog is the beginning of anything I want.
 
