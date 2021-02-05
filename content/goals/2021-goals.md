@@ -64,7 +64,7 @@ list:
       - Finance
   - type: quantitative
     total: 5000
-    num_complete: 1993
+    num_complete: 2000
     title: 💸 Invest $5k
     tags:
       - Finance
