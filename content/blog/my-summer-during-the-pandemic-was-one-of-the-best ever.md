@@ -47,7 +47,7 @@ Then, when the sun began to rise above the water, turning the clouds into pink, 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*b5dXzA2zpWLHSa6xIDQZFA.jpeg)
 
-<p align="center">*A breathtaking sunrise in progress.*</p>
+<p align="center"><i>A breathtaking sunrise in progress.</i></p>
 
  Due to Coronavirus, the world had spun into chaos and confusion in a matter of months. The only thing I could be sure of was that the sun would always rise again to start another day, whether I chose to see it or not. Time continued to move forward even if the monotony of lockdown made it feels as if it stood still. 
 
@@ -69,7 +69,7 @@ We ended up having to walk through the mud, dragging our boat behind us to get t
 
 ![](https://cdn-images-1.medium.com/max/1600/1*TkiLzzwEq2VeEUkufAwk-A.jpeg)
 
-<p align="center"> *Spot the pea on the goose’s back.* </p>
+<p align="center"><i>Spot the pea on the goose’s back.</i> </p>
 
 - - -
 
