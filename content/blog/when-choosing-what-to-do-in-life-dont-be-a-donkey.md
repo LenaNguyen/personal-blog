@@ -9,7 +9,7 @@ cover-photo: ../assets/pexels-pixabay-208821.jpg
 
 I was listening to Derek Sivers's chapter in the *[Tools of Titans](https://podcasts.apple.com/ca/podcast/tools-titans-tactics-routines-habits-world-class-performers/id1515607844)* podcast when I heard him bring up a point which resonated with me so well that I immediately stopped to pay closer attention. Tim Ferris had asked him "What advice would you give to your 30-year-old self?" to which Sivers replied, "Don't be a donkey."
 
-Sivers is referring to the donkey in the fable *Buridan's Ass* about a donkey who stands in the middle of a pile of hay and a bucket of water. The donkey looks back and forth trying to deciding between the hay or the water. Hay. Water. Hay. Water. He's so indecisive that he eventually falls over and dies of both hunger and thirst.
+Sivers is referring to the fable *Buridan's Ass.* It's about a donkey who stands in the middle of a pile of hay and a bucket of water. The donkey looks back and forth trying to deciding between the hay or the water. Hay. Water. Hay. Water. He's so indecisive that he eventually falls over and dies of both hunger and thirst.
 
 A donkey doesn't have the foresight to see that he can simply drink from the bucket of water first, and once he has quenched his thirst, he can go and eat some hay. His limiting quality is the belief that the choice he makes in the short term is what he must stick with in the long term. Donkeys can't see the future and the potential it holds.
 
