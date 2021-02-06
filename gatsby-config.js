@@ -28,7 +28,7 @@ module.exports = {
         },
         query: `
           {
-            allMdx {
+            allMdx(filter: { fileAbsolutePath: { regex: "/content/blog/" } }) {
               nodes {
                 id
                 fields { slug }

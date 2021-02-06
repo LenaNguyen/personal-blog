@@ -73,7 +73,10 @@ const SearchedPosts = ({ results }) =>
               marginBottom: rhythm(1 / 4),
             }}
           >
-            <Link style={{ boxShadow: `none` }} to={`/blog${slug}`}>
+            <Link
+              style={{ boxShadow: `none`, color: "black" }}
+              to={`/blog${slug}`}
+            >
               {title}
             </Link>
           </h3>
@@ -97,6 +100,7 @@ const AllPosts = ({ posts }) => (
     {posts.map(({ node }) => {
       const title = node.frontmatter.title || node.fields.slug
       const coverPhoto = node.frontmatter.cover_photo
+      console.log(title, Boolean(coverPhoto))
       return (
         <PostContainer key={node.fields.slug}>
           <Underline>
