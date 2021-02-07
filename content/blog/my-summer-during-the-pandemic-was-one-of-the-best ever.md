@@ -11,8 +11,6 @@ Like most people, I thought I had a pretty good idea of how 2020 would go. The s
 
 When Coronavirus started spreading enough for schools and businesses to close down, these plans were cancelled. My vision of spending all summer long meeting new people and going to fun events vanished. I had to go back to my hometown and work from there. This, however, turned out to be the spark that set me up for a surprisingly great summer. 
 
-- - -
-
 ### The Family Reunion
 
 Being back at home helped me to connect with my family. I am not very close with them and I definitely was not doing a good job of improving this relationship while I was busy studying at school or chasing the next internship. My parents and I don’t say much during dinner and when we talk on the phone, our conversations are short. That’s just our family dynamic.
@@ -20,8 +18,6 @@ Being back at home helped me to connect with my family. I am not very close with
 During the four months when I was at home, however, I really got to notice and appreciate a lot more about them. I noticed how old my parents were getting and how they still worked hard anyway. I saw how happy it made my mom when she saw me eating her home-cooked meals every day instead of eating out. I noticed how freshly cleaned my room was, even though it had been unused for several months. Despite not talking much, my parents were inexplicably happy to have me home.
 
 While I was looking forward to meeting many new people and going out, the pandemic forced me to take a step back and spend time with people who definitely deserve my time the most. Usually, I would feel like I was missing out if I stayed at home. I’m sure we all have an idea of what we should be doing while we’re still “young”. But with these expectations gone, I genuinely appreciate the opportunity to build my relationship with my family, take an interest in what they’ve been up to, and get to know them better. 
-
-- - -
 
 ### The Childhood Friend Reunion
 
@@ -33,8 +29,6 @@ I realized that before this point I had been surrounded by people all a part of 
 
 Being forced out of the environment I had become comfortable in to spend the summer with someone who was not in this industry and who was not working towards getting the best possible post-graduation job, really widened my perspective on what my goals could be. The change in perspective got me excited to explore something new.
 
-- - -
-
 ### The Sunrise
 
 I’ll be honest. During the first half of the summer, my main sources of entertainment were very similar to other people’s: social media and online shopping. For the first time in a while, I felt myself becoming addicted to consuming content. I was either constantly listening to something — a podcast, music — or constantly watching something on a screen.
@@ -45,15 +39,13 @@ The next day, we both woke up at 5:30 am and drove to the lake together. To my s
 
 Then, when the sun began to rise above the water, turning the clouds into pink, fluffy cotton candy, it was as if everyone in the whole park paused for a moment to look. It was glorious. I had never been so grateful for such a common occurrence. All I wanted to do, was live in that moment.
 
-![](https://cdn-images-1.medium.com/max/1600/1*b5dXzA2zpWLHSa6xIDQZFA.jpeg)
+![Sunrise at the lake.](https://cdn-images-1.medium.com/max/1600/1*b5dXzA2zpWLHSa6xIDQZFA.jpeg "A breathtaking sunrise in progress.")
 
 <p align="center"><i>A breathtaking sunrise in progress.</i></p>
 
  Due to Coronavirus, the world had spun into chaos and confusion in a matter of months. The only thing I could be sure of was that the sun would always rise again to start another day, whether I chose to see it or not. Time continued to move forward even if the monotony of lockdown made it feels as if it stood still. 
 
 This first journey to see the sunrise kicked off a series of other memorable trips to the lake and is what inspired the purchase of a key player for a great summer.
-
-- - -
 
 ### The Cheap Thrills
 
@@ -67,10 +59,8 @@ We ended up having to walk through the mud, dragging our boat behind us to get t
 
  Our boat adventures after this day involved more exploring as well as feeding the ducks and swans in the lake some peas. (At one point, we started playing a game where you got a point every time you landed a pea on one of the birds’ back.) I started to appreciate the wildlife that was around me a lot more. While we couldn’t hang out with other humans, the ducks were always there to watch the sunset with us.
 
-![](https://cdn-images-1.medium.com/max/1600/1*TkiLzzwEq2VeEUkufAwk-A.jpeg)
+![Goose with a pea on its back.](https://cdn-images-1.medium.com/max/1600/1*TkiLzzwEq2VeEUkufAwk-A.jpeg "Spot the pea on the goose’s back.")
 
 <p align="center"><i>Spot the pea on the goose’s back.</i> </p>
-
-- - -
 
 I was fortunate this past summer to have had such great experiences despite what is going on around the world. The pandemic has caused a lot of unwarranted devastation in people’s lives and I hope that you can find what keeps you grounded. Mine is being outside, living in the moment, and appreciating my physical surroundings. With circumstances changing rapidly, it forces us to redefine what we do to make us happy. In the coming new year, I urge you to build upon the relationships that you already have and most importantly, be creative in how you have fun!
