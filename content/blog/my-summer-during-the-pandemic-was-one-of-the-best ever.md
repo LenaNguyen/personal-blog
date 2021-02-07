@@ -63,4 +63,6 @@ We ended up having to walk through the mud, dragging our boat behind us to get t
 
 <p align="center"><i>Spot the pea on the goose’s back.</i> </p>
 
+___
+
 I was fortunate this past summer to have had such great experiences despite what is going on around the world. The pandemic has caused a lot of unwarranted devastation in people’s lives and I hope that you can find what keeps you grounded. Mine is being outside, living in the moment, and appreciating my physical surroundings. With circumstances changing rapidly, it forces us to redefine what we do to make us happy. In the coming new year, I urge you to build upon the relationships that you already have and most importantly, be creative in how you have fun!
