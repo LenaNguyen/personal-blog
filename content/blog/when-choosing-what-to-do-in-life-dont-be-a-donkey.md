@@ -20,7 +20,7 @@ I know what it's like to try and pursue many different directions at once, only 
 
 The problem is not the world telling you to choose one thing, but the mindset that if you don't do everything you want to do right now, then none of them will happen. Most people only think in the short term and forget how many decades a human lifespan actually contains. If you're reading this on the internet, then chances are that you still have a few decades left in you. You could gain a whole decade's worth of experience in one area and still have time to switch to work on something else for the next decade. It doesn't;t even have to be for that long before you switch. You just need the patience and commitment required to only pursue one or two things at a time.
 
-## Making Decisions
+### Making Decisions
 
 So now that you are trying to act less like a donkey and more like a human, how do you go about making a decision on what to do first? Serial entrepreneur Gary Vaynerchuck makes tons of decisions every day running his companies. His [decision-making tactics](https://www.garyvaynerchuk.com/how-i-decide/) consist of listening to his intuition, setting good intentions, and then going for it.
 
