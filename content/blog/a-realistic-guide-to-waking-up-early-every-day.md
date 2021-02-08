@@ -9,7 +9,7 @@ cover_photo: ../assets/pexels-ønsk-5740083.jpg
 
 I started waking up at the same time every day since the beginning of 2021. I have never been a consistent early riser before, but with lockdown and winter in full swing where I am, I noticed myself letting the isolation and seasonal sadness get to me. Waking up early became a way to gain more control over my life.
 
-It wasn't easy, and honestly, I still have days where I want to slam my head back into my pillow. But the daily sense of accomplishment I feel from choosing to get out of bed at a time when I don't have to is worth it. It has also helped me deal with the lack of daylight during winter because, by the time the sun starts rising, I am fully awake and ready to enjoy every minute of it.
+It wasn't easy, and honestly, I still have days where I want to slam my head back into my pillow. But the daily sense of accomplishment I feel from choosing to get out of bed at a time when I don't have to is worth it. It has also helped me deal with the lack of daylight during winter because, by the time the sun starts rising, I am fully awake and ready to enjoy every minute.
 
 Developing the habit of waking up early requires a foolproof system, especially when you're just starting out. The person you are in the morning is different from who you are during the rest of the day. You have to trick your other self into doing the things you want by making them as easy as possible to accomplish.
 
