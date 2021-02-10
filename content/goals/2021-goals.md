@@ -5,6 +5,7 @@ list:
     title: 🛷 Go sledding
     tags:
       - Activities
+    completed: true
   - type: binary
     title: 🔥 Start a bonfire
     tags:
@@ -31,8 +32,8 @@ list:
     tags:
       - Activities
   - type: quantitative
-    total: 5
-    num_complete: 7
+    total: 20
+    num_complete: 10
     title: 💪 Do 5 good push-ups
     tags:
       - Activities
