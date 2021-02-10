@@ -59,7 +59,7 @@ list:
       - Habits
   - type: quantitative
     total: 200
-    num_complete: 44
+    num_complete: 50
     title: 💲 Make $200 from side hustles
     tags:
       - Finance
