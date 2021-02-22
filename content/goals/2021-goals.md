@@ -32,8 +32,8 @@ list:
     tags:
       - Activities
   - type: quantitative
-    total: 20
-    num_complete: 10
+    total: 5
+    num_complete: 4
     title: 💪 Do 5 good push-ups
     tags:
       - Activities
