@@ -33,7 +33,7 @@ list:
       - Activities
   - type: quantitative
     total: 5
-    num_complete: 6
+    num_complete: 5
     title: 💪 Do 5 good push-ups
     tags:
       - Activities
