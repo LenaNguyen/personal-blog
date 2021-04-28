@@ -5,6 +5,7 @@ list:
     title: 🛷 Go sledding
     tags:
       - Activities
+    completed: true
   - type: binary
     title: 🔥 Start a bonfire
     tags:
@@ -32,7 +33,7 @@ list:
       - Activities
   - type: quantitative
     total: 5
-    num_complete: 7
+    num_complete: 5
     title: 💪 Do 5 good push-ups
     tags:
       - Activities
@@ -43,7 +44,7 @@ list:
       - Habits
   - type: qualitative
     title: 📔 Use my notebook consistently
-    status: "3"
+    status: "2"
     tags:
       - Habits
   - type: qualitative
@@ -53,12 +54,12 @@ list:
       - Habits
   - type: qualitative
     title: 📷 Document more of my life through video
-    status: "2"
+    status: "4"
     tags:
       - Habits
   - type: quantitative
     total: 200
-    num_complete: 44
+    num_complete: 50
     title: 💲 Make $200 from side hustles
     tags:
       - Finance
