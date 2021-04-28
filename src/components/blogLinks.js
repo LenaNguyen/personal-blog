@@ -25,15 +25,11 @@ export default ({ previous, next }) => {
     if (prevEl && nextEl && prevEl.offsetTop !== nextEl.offsetTop) {
       return setHasOverflow(true)
     }
-  })
+  }, [prevEl, nextEl])
 
   return (
     <Container>
-      <LinkContainer
-        ref={el => setPrevEl(el)}
-        prev={true}
-        hasOverflow={hasOverflow}
-      >
+      <LinkContainer ref={el => setPrevEl(el)} prev hasOverflow={hasOverflow}>
         {previous && (
           <Link to={`/blog${previous.fields.slug}`} rel="prev">
             ← {previous.frontmatter.title}

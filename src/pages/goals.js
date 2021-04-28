@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 import GoalsTable from "../components/goals/goalsTable"
 import SEO from "../components/seo"
 
-class Blog extends React.Component {
+class Goals extends React.Component {
   render() {
     const {
       list: goalsList,
@@ -26,7 +26,7 @@ class Blog extends React.Component {
   }
 }
 
-export default Blog
+export default Goals
 
 export const pageQuery = graphql`
   query {
